@@ -180,18 +180,25 @@ Contains:
 </form>
 
 ```
-[Images/image-1.png](https://github.com/Prashantrawat13/Flask_and_mongodb/blob/main/Images/image.png?raw=true)
+<img width="828" height="510" alt="image" src="https://github.com/user-attachments/assets/62140a7f-3548-44ff-9f19-607357096e70" />
 
+This is the web page of the form.
+
+---
 ### **2. `success.html`**
 
 A simple page showing confirmation of successful submission.
 
+---
 ```html
 
 <h1>Data submitted successfully</h1>
 
 ```
-[Images/image.png](https://github.com/Prashantrawat13/Flask_and_mongodb/blob/main/Images/image-1.png?raw=true)
+<img width="864" height="476" alt="image" src="https://github.com/user-attachments/assets/e3e5642a-4d68-4660-8af8-2ef552f353c9" />
+
+This is the web page when the form is filled successfully.
+
 ---
 
 ## **MongoDB Atlas Setup**
@@ -243,7 +250,10 @@ Form Page:
 http://127.0.0.1:5000/
 
 ```
-[Images/image-3.png](https://github.com/Prashantrawat13/Flask_and_mongodb/blob/main/Images/image-3.png?raw=true)
+<img width="1470" height="364" alt="image" src="https://github.com/user-attachments/assets/6db52f01-a137-4b8f-b2ce-1a4060050d7e" />
+
+This is the Command Prompt, and in this you can see how we got the local host IP to check the Server.
+
 
 API Route:
 

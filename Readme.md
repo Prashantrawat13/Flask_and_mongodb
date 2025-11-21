@@ -180,6 +180,7 @@ Contains:
 </form>
 
 ```
+![alt text](image.png)
 
 ### **2. `success.html`**
 
@@ -190,7 +191,7 @@ A simple page showing confirmation of successful submission.
 <h1>Data submitted successfully</h1>
 
 ```
-
+![alt text](image-1.png)
 ---
 
 ## **MongoDB Atlas Setup**
@@ -242,6 +243,7 @@ Form Page:
 http://127.0.0.1:5000/
 
 ```
+![alt text](image-3.png)
 
 API Route:
 

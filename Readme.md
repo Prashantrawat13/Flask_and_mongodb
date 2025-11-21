@@ -180,7 +180,7 @@ Contains:
 </form>
 
 ```
-Images/image-1.png
+[Images/image-1.png](https://github.com/Prashantrawat13/Flask_and_mongodb/blob/main/Images/image.png?raw=true)
 
 ### **2. `success.html`**
 
@@ -191,7 +191,7 @@ A simple page showing confirmation of successful submission.
 <h1>Data submitted successfully</h1>
 
 ```
-Images/image.png
+[Images/image.png](https://github.com/Prashantrawat13/Flask_and_mongodb/blob/main/Images/image-1.png?raw=true)
 ---
 
 ## **MongoDB Atlas Setup**
@@ -243,7 +243,7 @@ Form Page:
 http://127.0.0.1:5000/
 
 ```
-Images/image-3.png
+[Images/image-3.png](https://github.com/Prashantrawat13/Flask_and_mongodb/blob/main/Images/image-3.png?raw=true)
 
 API Route:
 
